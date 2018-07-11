@@ -7,7 +7,6 @@ HYDRUS STUDIO
 </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/License-Apache 2.0-blue.svg">
-  <img src="https://img.shields.io/badge/Issue-1-blue.svg">
   <img src="https://img.shields.io/badge/Version-1.03-green.svg">
 </p>
 
